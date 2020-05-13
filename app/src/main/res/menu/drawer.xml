@@ -9,6 +9,11 @@
             android:icon="@drawable/bio"
             android:title="@string/bio" />
         <item
+            android:id="@+id/nav_formation"
+            android:icon="@drawable/bio"
+            android:title="@string/formation" />
+
+        <item
             android:id="@+id/nav_competence"
             android:icon="@drawable/competence"
             android:title="@string/competence" />
