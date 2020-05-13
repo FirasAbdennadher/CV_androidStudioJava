@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_bio"
+            android:icon="@drawable/bio"
+            android:title="@string/bio" />
+        <item
+            android:id="@+id/nav_competence"
+            android:icon="@drawable/competence"
+            android:title="@string/competence" />
+
+        <item
+            android:id="@+id/nav_Langue"
+            android:icon="@drawable/langue"
+            android:title="@string/Langue" />
+
+        <item
+            android:id="@+id/nav_Certificat"
+            android:icon="@drawable/certificat"
+            android:title="@string/Certificat" />
+
+        <item
+            android:id="@+id/nav_STAGES"
+            android:icon="@drawable/stage"
+            android:title="@string/STAGES" />
+
+        <item
+            android:id="@+id/nav_projetDevelopper"
+            android:icon="@drawable/project"
+            android:title="@string/projetDevelopper" />
+
+        <item
+            android:id="@+id/nav_vieAssociative"
+            android:icon="@drawable/vie"
+            android:title="@string/vieAssociative" />
+
+
+        <item android:title="Communication">
+            <menu>
+                <item
+                    android:id="@+id/nav_partage"
+                    android:icon="@drawable/share"
+                    android:title="Partager!" />
+
+                <item
+                    android:id="@+id/nav_contact"
+                    android:icon="@drawable/contact"
+                    android:title="Contacter moi!" />
+            </menu>
+
+        </item>
+    </group>
+
+</menu>

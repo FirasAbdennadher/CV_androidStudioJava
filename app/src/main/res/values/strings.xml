@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyCv</string>
+    <string name="formation">Formation</string>
+    <string name="bio">Bio</string>
+    <string name="competence">Competence</string>
+    <string name="Langue">Langue</string>
+    <string name="Certificat">Certificat</string>
+    <string name="STAGES">Stage</string>
+    <string name="projetDevelopper">Projet Développé</string>
+    <string name="vieAssociative">Vie Associative</string>
+    <string name="navigation_drawer_open">Ouvrir</string>
+    <string name="navigation_drawer_close">Fermer</string>
+</resources>
