@@ -30,6 +30,95 @@
     <string name="cycleinge_info">Institut International de Technologie de Sfax(IIT).</string>
 
 
+    <string name="ccn1"> CCNA 1</string>
+    <string name="java"> Java Fundamentals </string>
+    <string name="certifachevmnt"> Certificat d\'achèvement </string>
+    <string name="powerbi">Miscrsoft Power BI : Les fondamentaux</string>
+    <string name="introdata">Intro to data and datascience  </string>
+    <string name="tensorflow"> Deep learning with tensorflow 2.0 </string>
+    <string name="docker">Docker : Installation et Administration  </string>
+    <string name="angular">Angular 4 : Les fondamentaux </string>
+    <string name="python">Python programmer bootcamp </string>
+    <string name="nvidia">NVIDIA </string>
+
+
+    <string name="languagepro">Langages de programmation </string>
+    <string name="languagepro_info">JAVA ,JEE ,JavaScript , PYTHON , PHP , C , C#. </string>
+    <string name="devweb"> Développement web</string>
+    <string name="devwebinfo">  Angular , Spring Boot,Spring security , HTML , CSS ,Bootstrap, Hibernate</string>
+    <string name="uml"> Langage de Modélisation</string>
+    <string name="umlinfo"> UML.</string>
+    <string name="sgbd">Système de gestion de base de données: </string>
+    <string name="sgbdinfo"> SQL Server , MySQL, Oracle.</string>
+    <string name="scrum">Conception et gestion de projet: </string>
+    <string name="scruminfo">méthodologie SCRUM. </string>
+    <string name="analyse">Analyse de données </string>
+    <string name="analyseinfo">  ETL , Data Warehouse,Python(Numpy).</string>
+
+
+    <string name="Arabe"> Arabe : Langue Maternelle</string>
+    <string name="Français"> Français : Bilingue</string>
+    <string name="Anglais"> Anglais : Bilingue</string>
+
+
+
+    <string name="stagetec">Stage technicien | AOUT- Décembre 2019 : </string>
+    <string name="stagetecinfo">J\'ai eu une expérience professionnelle durant
+l\'année 2019. J\'ai développé à travers laquelle des
+connaissances en wordpress et prestashop, PHP7,
+CSS, HTML , Ajax et jquery.
+ </string>
+    <string name="stagepfe">Stage Pour Projet fin d’année PFE |
+2018- février :
+</string>
+    <string name="stagepfeinfo">Réalisation d’une application gestion des congés inclus
+gestion d\'affiliation, un Dashboard, et reporting.
+Mots clés : C#, Oracle , devExpress </string>
+    <string name="stageete"> Stage d\’été| Juin 2017:</string>
+    <string name="stageeteinfo"> Réalisation d’une application gestion de paie, j’ai
+focalisé essentiellement gestion des primes les
+heures supplémentaire.
+Mots clés : C#, Oracle , devExpress</string>
+
+
+
+
+
+
+
+    <string name="metrosfax">Création d\’une application Desktop: Métro de
+Sfax Mars 2019 </string>
+    <string name="metrosfaxinfo"> Réalisation d’une application Desktop gestion des
+tickets et la correspondance statistique.
+Mots clés : JavaFx, Oracle, Jasper report
+</string>
+    <string name="friplocal">Création d\’une application web : Fripe Local Décembre-Janvier 2019 </string>
+    <string name="friplocalinfo">Conception et réalisation d’une application web
+similaire à (tayara.tn) pour la gestion des articles à
+vendre
+Mots clés : PHP7, MYSQL, Bootstrap, AJAX,
+firewall,Rewriting.
+ </string>
+    <string name="iit"> Création d’un Site Web pour la faculté
+Février 2020</string>
+    <string name="iitinfo">Site Web dynamique pour ma faculté Institut
+International de Technologie de sfax
+Mots clés : Wordpress. </string>
+    <string name="facultefsegsapp">Application mobile pour la faculté FSEGS de Sfax  </string>
+    <string name="facultefsegsappinfo">Mots clés: Cordova, JqueryMobile. </string>
+
+
+
+    <string name="sousse"> Participation à la compétition TECHFEST Sousse 2019</string>
+    <string name="gredma"> Participation à la compétition JCI GREMDA STARTUP 2019. </string>
+    <string name="hackingHealth">Participation à la compétition HACKING HEALTH Technopole Sfax
+2019.  </string>
+    <string name="sipc">Participation à la compétition SIPC (competitive programming
+context) Sfax  </string>
+
+
+
+
 
 
 </resources>

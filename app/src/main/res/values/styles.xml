@@ -23,6 +23,12 @@
         <item name="sw_interpolator">@android:anim/decelerate_interpolator</item>
     </style>
 
+
+
+
+
+
+
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />

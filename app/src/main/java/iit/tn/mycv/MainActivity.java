@@ -38,6 +38,7 @@ implements NavigationView.OnNavigationItemSelectedListener {
             getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,new BioFragment()).commit();
             navigationView.setCheckedItem(R.id.nav_bio);
 
+
         }
     }
 
@@ -59,6 +60,31 @@ implements NavigationView.OnNavigationItemSelectedListener {
             case R.id.nav_formation:
                 getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,new FormationFragment()).commit();
                 break;
+
+            case R.id.nav_competence:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,new CompetenceFragment()).commit();
+                break;
+
+            case R.id.nav_Langue:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,new LangueFragment()).commit();
+                break;
+
+            case R.id.nav_Certificat:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,new CertificatFragment()).commit();
+                break;
+
+            case R.id.nav_STAGES:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,new StageFragment()).commit();
+                break;
+
+            case R.id.nav_projetDevelopper:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,new ProjetsFragment()).commit();
+                break;
+
+            case R.id.nav_vieAssociative:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,new VieFragment()).commit();
+                break;
+
 
         }
         drawerLayout.closeDrawer(GravityCompat.START);

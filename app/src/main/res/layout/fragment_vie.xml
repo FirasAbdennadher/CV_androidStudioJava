@@ -74,7 +74,7 @@
                         android:layout_marginLeft="15dp"
                         android:layout_weight="0.35"
                         android:padding="20dp"
-                        android:text="@string/cycleinge"
+                        android:text="@string/sousse"
                         android:textColor="#010404"
                         android:textSize="14sp" />
                 </TableRow>
@@ -89,7 +89,7 @@
                         android:layout_marginLeft="15dp"
                         android:layout_weight="0.35"
                         android:padding="20dp"
-                        android:text="@string/cycleinge_info"
+                        android:text="@string/gredma"
                         android:textColor="#010404"
                         android:textSize="14sp" />
                 </TableRow>
@@ -106,7 +106,7 @@
                         android:layout_marginLeft="15dp"
                         android:layout_weight="0.35"
                         android:padding="20dp"
-                        android:text="@string/fsegs"
+                        android:text="@string/hackingHealth"
                         android:textColor="#010404"
                         android:textSize="14sp" />
                 </TableRow>
@@ -121,38 +121,7 @@
                         android:layout_marginLeft="15dp"
                         android:layout_weight="0.35"
                         android:padding="20dp"
-                        android:text="@string/fsegsinfo"
-                        android:textColor="#010404"
-                        android:textSize="14sp" />
-                </TableRow>
-
-
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent" >
-
-                    <TextView
-                        android:layout_width="133dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="15dp"
-                        android:layout_weight="0.35"
-                        android:padding="20dp"
-                        android:text="@string/bac"
-                        android:textColor="#010404"
-                        android:textSize="14sp" />
-                </TableRow>
-
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent" >
-
-                    <TextView
-                        android:layout_width="133dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginLeft="15dp"
-                        android:layout_weight="0.35"
-                        android:padding="20dp"
-                        android:text="@string/bacinfo"
+                        android:text="@string/sipc"
                         android:textColor="#010404"
                         android:textSize="14sp" />
                 </TableRow>
@@ -162,6 +131,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent" />
             </TableLayout>
+
 
         </LinearLayout>
     </LinearLayout>

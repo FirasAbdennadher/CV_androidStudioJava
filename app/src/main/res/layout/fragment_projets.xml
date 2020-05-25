@@ -67,53 +67,37 @@
                 <TableRow
                     android:layout_width="match_parent"
                     android:layout_height="match_parent" >
-
                     <TextView
                         android:layout_width="133dp"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
                         android:layout_weight="0.35"
                         android:padding="20dp"
-                        android:text="@string/cycleinge"
+                        android:text="@string/metrosfax"
                         android:textColor="#010404"
                         android:textSize="14sp" />
-                </TableRow>
-
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent" >
-
                     <TextView
                         android:layout_width="133dp"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
                         android:layout_weight="0.35"
                         android:padding="20dp"
-                        android:text="@string/cycleinge_info"
+                        android:text="@string/metrosfaxinfo"
                         android:textColor="#010404"
                         android:textSize="14sp" />
+
                 </TableRow>
 
-
-
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent" >
-
+                <TableRow>
                     <TextView
                         android:layout_width="133dp"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
                         android:layout_weight="0.35"
                         android:padding="20dp"
-                        android:text="@string/fsegs"
+                        android:text="@string/friplocal"
                         android:textColor="#010404"
                         android:textSize="14sp" />
-                </TableRow>
-
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent" >
 
                     <TextView
                         android:layout_width="133dp"
@@ -121,15 +105,22 @@
                         android:layout_marginLeft="15dp"
                         android:layout_weight="0.35"
                         android:padding="20dp"
-                        android:text="@string/fsegsinfo"
+                        android:text="@string/friplocalinfo"
                         android:textColor="#010404"
                         android:textSize="14sp" />
                 </TableRow>
 
 
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent" >
+                <TableRow>
+                    <TextView
+                        android:layout_width="133dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_weight="0.35"
+                        android:padding="20dp"
+                        android:text="@string/iit"
+                        android:textColor="#010404"
+                        android:textSize="14sp" />
 
                     <TextView
                         android:layout_width="133dp"
@@ -137,14 +128,22 @@
                         android:layout_marginLeft="15dp"
                         android:layout_weight="0.35"
                         android:padding="20dp"
-                        android:text="@string/bac"
+                        android:text="@string/iitinfo"
                         android:textColor="#010404"
                         android:textSize="14sp" />
                 </TableRow>
 
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent" >
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="133dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_weight="0.35"
+                        android:padding="20dp"
+                        android:text="@string/facultefsegsapp"
+                        android:textColor="#010404"
+                        android:textSize="14sp" />
 
                     <TextView
                         android:layout_width="133dp"
@@ -152,7 +151,30 @@
                         android:layout_marginLeft="15dp"
                         android:layout_weight="0.35"
                         android:padding="20dp"
-                        android:text="@string/bacinfo"
+                        android:text="@string/facultefsegsappinfo"
+                        android:textColor="#010404"
+                        android:textSize="14sp" />
+                </TableRow>
+
+
+                <TableRow>
+                    <TextView
+                        android:layout_width="133dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_weight="0.35"
+                        android:padding="20dp"
+                        android:text="@string/stageete"
+                        android:textColor="#010404"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:layout_width="133dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_weight="0.35"
+                        android:padding="20dp"
+                        android:text="@string/stageeteinfo"
                         android:textColor="#010404"
                         android:textSize="14sp" />
                 </TableRow>
