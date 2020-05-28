@@ -57,8 +57,9 @@
 
 
     <string name="Arabe"> Arabe : Langue Maternelle</string>
-    <string name="Français"> Français : Bilingue</string>
-    <string name="Anglais"> Anglais : Bilingue</string>
+    <string name="Français"> Français : Intermédiaire supérieur</string>
+    <string name="Anglais"> Anglais : Intermédiaire supérieur</string>
+    <string name="Allemand"> Allemand : Élémentaire</string>
 
 
 

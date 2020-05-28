@@ -27,7 +27,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
-            android:text="@string/certifachevmnt"
+            android:text="@string/competence"
             android:textColor="#fff"
             android:textSize="24sp"
             app:layout_constraintEnd_toEndOf="parent"
@@ -81,7 +81,9 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:text="@string/languagepro"
-                            android:textAlignment="center" />
+                            android:textAlignment="center"
+                            android:textSize="12sp"
+                            />
 
                     </LinearLayout>
 
@@ -121,26 +123,30 @@
                                 android:layout_gravity="center"
                                 android:src="@drawable/javascript" />
 
-                            <com.alexzh.circleimageview.CircleImageView
-                                android:layout_width="40dp"
-                                android:layout_height="40dp"
-                                android:layout_gravity="center"
-                                android:src="@drawable/python" />
-
-                            <com.alexzh.circleimageview.CircleImageView
-                                android:layout_width="40dp"
-                                android:layout_height="40dp"
-                                android:layout_gravity="center"
-                                android:src="@drawable/php" />
-
-                            <com.alexzh.circleimageview.CircleImageView
-                                android:layout_width="40dp"
-                                android:layout_height="40dp"
-                                android:layout_gravity="center"
-                                android:src="@drawable/csharp" />
 
                         </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="horizontal">
+                        <com.alexzh.circleimageview.CircleImageView
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="center"
+                            android:src="@drawable/python" />
 
+                        <com.alexzh.circleimageview.CircleImageView
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="center"
+                            android:src="@drawable/php" />
+
+                        <com.alexzh.circleimageview.CircleImageView
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_gravity="center"
+                            android:src="@drawable/csharp" />
+                        </LinearLayout>
 
 
                     </LinearLayout>
@@ -178,7 +184,9 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:text="@string/devweb"
-                            android:textAlignment="center" />
+                            android:textAlignment="center"
+                            android:textSize="12sp"
+                            />
 
                     </LinearLayout>
 
@@ -218,6 +226,11 @@
                                 android:layout_gravity="center"
                                 android:src="@drawable/html" />
 
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="horizontal">
                             <com.alexzh.circleimageview.CircleImageView
                                 android:layout_width="40dp"
                                 android:layout_height="40dp"
@@ -229,7 +242,6 @@
                                 android:layout_height="40dp"
                                 android:layout_gravity="center"
                                 android:src="@drawable/jpa" />
-
 
                         </LinearLayout>
 
@@ -270,7 +282,9 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:text="@string/uml"
-                            android:textAlignment="center" />
+                            android:textAlignment="center"
+                            android:textSize="12sp"
+                            />
 
                     </LinearLayout>
 
@@ -332,7 +346,9 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:text="@string/sgbd"
-                            android:textAlignment="center" />
+                            android:textAlignment="center"
+                            android:textSize="12sp"
+                            />
 
                     </LinearLayout>
 
@@ -406,7 +422,9 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:text="@string/scrum"
-                            android:textAlignment="center" />
+                            android:textAlignment="center"
+                            android:textSize="12sp"
+                            />
 
                     </LinearLayout>
 
@@ -428,8 +446,8 @@
 
 
                         <com.alexzh.circleimageview.CircleImageView
-                            android:layout_width="40dp"
-                            android:layout_height="40dp"
+                            android:layout_width="70dp"
+                            android:layout_height="70dp"
                             android:layout_gravity="center"
                             android:src="@drawable/scrumm" />
 
@@ -470,7 +488,9 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:text="@string/analyse"
-                            android:textAlignment="center" />
+                            android:textAlignment="center"
+                            android:textSize="12sp"
+                            />
 
                     </LinearLayout>
 
@@ -494,13 +514,13 @@
                             android:layout_height="wrap_content"
                             android:orientation="horizontal">
                             <com.alexzh.circleimageview.CircleImageView
-                                android:layout_width="40dp"
-                                android:layout_height="40dp"
+                                android:layout_width="70dp"
+                                android:layout_height="70dp"
                                 android:layout_gravity="center"
                                 android:src="@drawable/dwh" />
                             <com.alexzh.circleimageview.CircleImageView
-                                android:layout_width="40dp"
-                                android:layout_height="40dp"
+                                android:layout_width="70dp"
+                                android:layout_height="70dp"
                                 android:layout_gravity="center"
                                 android:src="@drawable/numpy" />
 
