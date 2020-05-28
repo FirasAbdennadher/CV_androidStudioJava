@@ -1,13 +1,11 @@
 package iit.tn.mycv;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
-import androidx.fragment.app.Fragment;
 
 import android.os.Bundle;
 import android.view.MenuItem;
@@ -84,7 +82,9 @@ implements NavigationView.OnNavigationItemSelectedListener {
             case R.id.nav_vieAssociative:
                 getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,new VieFragment()).commit();
                 break;
-
+            case R.id.nav_partage:
+                getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,new ProfileFragment()).commit();
+                break;
 
         }
         drawerLayout.closeDrawer(GravityCompat.START);
