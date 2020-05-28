@@ -56,10 +56,15 @@
     <string name="analyseinfo">  ETL , Data Warehouse,Python(Numpy).</string>
 
 
-    <string name="Arabe"> Arabe : Langue Maternelle</string>
-    <string name="Français"> Français : Intermédiaire supérieur</string>
-    <string name="Anglais"> Anglais : Intermédiaire supérieur</string>
-    <string name="Allemand"> Allemand : Élémentaire</string>
+    <string name="Arabe"> Arabe </string>
+    <string name="Français"> Français </string>
+    <string name="Anglais"> Anglais </string>
+    <string name="Allemand"> Allemand </string>
+
+    <string name="Arabe_info"> Langue Maternelle</string>
+    <string name="Français_info">  Intermédiaire supérieur</string>
+    <string name="Anglais_info"> Intermédiaire supérieur</string>
+    <string name="Allemand_info">  Élémentaire</string>
 
 
 
