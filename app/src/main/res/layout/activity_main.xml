@@ -20,7 +20,7 @@
         android:layout_height="169dp"
         android:alpha="0.8"
         android:scaleType="fitXY"
-        android:src="@drawable/cv" />
+        android:src="@drawable/gradient" />
     
     <androidx.appcompat.widget.Toolbar
         xmlns:android="http://schemas.android.com/apk/res/android"
@@ -28,10 +28,11 @@
         android:layout_height="wrap_content">
 
 
+
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Mon Profile"
         android:textSize="20dp"
         android:layout_gravity="center"
         android:gravity="bottom"
@@ -70,7 +71,7 @@
             android:id="@+id/toolBar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:background="@color/colorPrimary"
+            android:background="@drawable/transparents"
             android:elevation="4dp"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />

@@ -7,6 +7,8 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
 import android.view.MenuItem;
 
@@ -22,6 +24,7 @@ implements NavigationView.OnNavigationItemSelectedListener {
         setContentView(R.layout.activity_main);
 
         Toolbar toolbar = findViewById(R.id.toolBar);
+
         setSupportActionBar(toolbar);
 
         drawerLayout = findViewById(R.id.drawer_layout);
@@ -30,6 +33,7 @@ implements NavigationView.OnNavigationItemSelectedListener {
 
         ActionBarDrawerToggle toogle = new ActionBarDrawerToggle(this, drawerLayout, toolbar
                 , R.string.navigation_drawer_open, R.string.navigation_drawer_close);
+
         drawerLayout.addDrawerListener(toogle);
         toogle.syncState();
         if(savedInstanceState ==null){
@@ -38,6 +42,14 @@ implements NavigationView.OnNavigationItemSelectedListener {
 
 
         }
+
+      //  getSupportActionBar().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
+       // getSupportActionBar().hide();
+
+        getSupportActionBar().setHomeButtonEnabled(true);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setHomeAsUpIndicator(R.drawable.left);
+
     }
 
     @Override

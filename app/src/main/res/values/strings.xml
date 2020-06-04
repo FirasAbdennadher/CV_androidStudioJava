@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyCv</string>
+    <string name="app_name"> </string>
     <string name="formation">Formation</string>
     <string name="bio">Bio</string>
     <string name="competence">Competence</string>
@@ -67,6 +67,7 @@
     <string name="Allemand_info">  Élémentaire</string>
 
 
+    <string name="stage">Stage</string>
 
     <string name="stagetec">Stage technicien | AOUT- Décembre 2019 : </string>
     <string name="stagetecinfo">J\'ai eu une expérience professionnelle durant
@@ -74,6 +75,8 @@ l\'année 2019. J\'ai développé à travers laquelle des
 connaissances en wordpress et prestashop, PHP7,
 CSS, HTML , Ajax et jquery.
  </string>
+
+
     <string name="stagepfe">Stage Pour Projet fin d’année PFE |
 2018- février :
 </string>
@@ -85,9 +88,6 @@ Mots clés : C#, Oracle , devExpress </string>
 focalisé essentiellement gestion des primes les
 heures supplémentaire.
 Mots clés : C#, Oracle , devExpress</string>
-
-
-
 
 
 
@@ -115,12 +115,16 @@ Mots clés : Wordpress. </string>
 
 
 
-    <string name="sousse"> Participation à la compétition TECHFEST Sousse 2019</string>
-    <string name="gredma"> Participation à la compétition JCI GREMDA STARTUP 2019. </string>
-    <string name="hackingHealth">Participation à la compétition HACKING HEALTH Technopole Sfax
-2019.  </string>
-    <string name="sipc">Participation à la compétition SIPC (competitive programming
-context) Sfax  </string>
+    <string name="sousse">Participation à la compétition TECHFEST Sousse 2019.</string>
+    <string name="gredma">Participation à la compétition JCI GREMDA STARTUP 2019. </string>
+    <string name="hackingHealth">Participation à la compétition HACKING HEALTH Technopole Sfax 2019.</string>
+    <string name="sipc">Participation à la compétition Competitive programming context.</string>
+    <string name="gdg">Participation à la compétition GDG SFAX DEVFEST 2019.</string>
+    <string name="nasa2020">1er prix NASA SPACE APPS CHALLENGE 2020.  </string>
+    <string name="nasa2019">5éme prix NASA SPACE APPS CHALLENGE 2019.  </string>
+    <string name="py">Vice president de club PYTHON-TUNISIA(IIT) 2020. </string>
+    <string name="mta">Vice president de club MTA (Microsoft) 2020.</string>
+    <string name="iee">Coach (IEEEXtreme Programming Competition 2019) PYTHON.</string>
 
 
 
