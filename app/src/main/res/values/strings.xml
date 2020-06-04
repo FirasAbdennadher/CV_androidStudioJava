@@ -17,13 +17,13 @@
     <string name="pays">Pays</string>
     <string name="bilbio">Biblio</string>
     <string name="info">
-        Actuellement, je suis étudiant en 2 ème année Ingénierie génie logiciel à l’université institut international technologie de sfax, De plus, j\'ai eu mon diplôme en informatique appliquée à la gestion à l\'université faculté.
+        Actuellement, je suis étudiant en deuxième année Génie Logiciel et informatique décisionelle à l’université institut international technologie de sfax, De plus, j\'ai eu mon diplôme en informatique appliquée à la gestion à l\'université faculté.
         des sciences économiques et de gestion de sfax en 2018.
     </string>
 
     <string name="paysinfo">Tunisie</string>
     <string name="bac">Cycle d\'études secondaires: Baccalauréat Informatique– Mention assez bien (2015).</string>
-    <string name="bacinfo">Lycée 20 mars</string>
+    <string name="bacinfo">Lycée 20 mars 1956 Sfax </string>
     <string name="fsegs">Licence Fondamentale Informatique de Gestion (2015-2018)</string>
     <string name="fsegsinfo">Faculté des Sciences Économiques et de Gestion de Sfax. </string>
     <string name="cycleinge">Cycle d\'ingénieur en génie informatique (2018-2021).</string>
@@ -124,9 +124,8 @@ context) Sfax  </string>
 
 
 
-
-
-
-
+    <string name="bioInfo">Moi c\'est Firas ABDENNADHER, je suis né le 03 aout 1996. Je suis de nationalité Tunisienne.
+    Passionée par la conception et la mise en oeuvre des applications ainsi le domaine décisionelle.
+    </string>
 
 </resources>
