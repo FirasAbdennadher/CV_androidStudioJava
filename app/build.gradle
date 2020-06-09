@@ -40,7 +40,6 @@ dependencies {
     implementation 'androidx.gridlayout:gridlayout:1.0.0'
 
 
-
     implementation 'com.jakewharton:butterknife:10.2.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.1'
 
@@ -51,11 +50,7 @@ dependencies {
     implementation 'com.android.support:cardview-v7:28.2.1'
 
 
-
     implementation 'me.spark:submitbutton:1.0.1'
-
-
-
 
 
 }

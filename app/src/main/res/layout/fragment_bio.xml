@@ -122,21 +122,21 @@
         >
 
         <Button
-            android:id="@+id/linkedin"
+            android:id="@+id/linkedin1"
             android:layout_width="70dp"
             android:layout_height="70dp"
             android:layout_marginLeft="30dp"
             android:background="@drawable/linkedin" />
 
        <Button
-            android:id="@+id/github"
+            android:id="@+id/github1"
             android:layout_width="70dp"
             android:layout_height="70dp"
             android:layout_marginLeft="30dp"
             android:background="@drawable/github" />
 
         <Button
-            android:id="@+id/codeforces"
+            android:id="@+id/codeforces1"
             android:layout_width="70dp"
             android:layout_height="70dp"
             android:layout_marginLeft="30dp"

@@ -94,7 +94,7 @@ implements NavigationView.OnNavigationItemSelectedListener {
             case R.id.nav_vieAssociative:
                 getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,new VieFragment()).commit();
                 break;
-            case R.id.nav_partage:
+            case R.id.nav_contact:
                 getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,new ProfileFragment()).commit();
                 break;
 

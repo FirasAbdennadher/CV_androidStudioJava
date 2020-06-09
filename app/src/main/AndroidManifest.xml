@@ -9,7 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"
+        <activity android:name=".iit.tn.mycv.ImageView.iit.tn.mycv.CertifClasses.nvidiaCertif" />
+        <activity android:name=".iit.tn.mycv.ImageView.iit.tn.mycv.CertifClasses.angularCertif" />
+        <activity android:name=".iit.tn.mycv.ImageView.iit.tn.mycv.CertifClasses.TensorCertif" />
+        <activity android:name=".iit.tn.mycv.ImageView.iit.tn.mycv.CertifClasses.dockerCertif" />
+        <activity android:name=".iit.tn.mycv.ImageView.iit.tn.mycv.CertifClasses.BiCertif" />
+        <activity android:name=".iit.tn.mycv.ImageView.iit.tn.mycv.CertifClasses.Python_Certif" />
+        <activity android:name=".Certif_1" />
+        <activity
+            android:name=".MainActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
