@@ -28,6 +28,7 @@ public class ProfileFragment extends Fragment {
 
         envoyer = (Button) view.findViewById(R.id.envoyer);
 
+        to= view.findViewById(R.id.to);
         msg= view.findViewById(R.id.msg);
         sub= view.findViewById(R.id.sub);
         envoyer.setOnClickListener(new View.OnClickListener() {
