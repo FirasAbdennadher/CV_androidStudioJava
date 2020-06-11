@@ -71,7 +71,7 @@
             android:id="@+id/toolBar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:background="@drawable/transparents"
+            android:background="@drawable/colortransparent"
             android:elevation="4dp"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
@@ -88,8 +88,7 @@
         android:layout_gravity="start"
         app:headerLayout="@layout/nav_header"
         app:menu="@menu/drawer"
-        android:background="@drawable/backs"
-        app:itemBackground="@color/white"
+        app:itemTextColor="@color/black"
 
         />
 
